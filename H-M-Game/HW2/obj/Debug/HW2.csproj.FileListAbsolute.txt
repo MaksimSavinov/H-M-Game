@@ -1,0 +1,17 @@
+C:\Users\2001_\source\repos\HW2\HW2\bin\Debug\HW2.exe.config
+C:\Users\2001_\source\repos\HW2\HW2\bin\Debug\HW2.exe
+C:\Users\2001_\source\repos\HW2\HW2\bin\Debug\HW2.pdb
+C:\Users\2001_\source\repos\HW2\HW2\bin\Debug\GameLib.dll
+C:\Users\2001_\source\repos\HW2\HW2\bin\Debug\GameLib.pdb
+C:\Users\2001_\source\repos\HW2\HW2\obj\Debug\HW2.csprojAssemblyReference.cache
+C:\Users\2001_\source\repos\HW2\HW2\obj\Debug\HW2.Fight.resources
+C:\Users\2001_\source\repos\HW2\HW2\obj\Debug\HW2.Heroes_of_Might_and_Magic.resources
+C:\Users\2001_\source\repos\HW2\HW2\obj\Debug\HW2.Lose.resources
+C:\Users\2001_\source\repos\HW2\HW2\obj\Debug\HW2.NewGame.resources
+C:\Users\2001_\source\repos\HW2\HW2\obj\Debug\HW2.Properties.Resources.resources
+C:\Users\2001_\source\repos\HW2\HW2\obj\Debug\HW2.Win.resources
+C:\Users\2001_\source\repos\HW2\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\2001_\source\repos\HW2\HW2\obj\Debug\HW2.csproj.CopyComplete
+C:\Users\2001_\source\repos\HW2\HW2\obj\Debug\HW2.exe
+C:\Users\2001_\source\repos\HW2\HW2\obj\Debug\HW2.pdb
+C:\Users\2001_\source\repos\HW2\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
